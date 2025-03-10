@@ -1,7 +1,3 @@
-Aşağıda, Chrome uzantınız için profesyonel, açık ve düzenli bir `README.md` dosyası hazırladım. Bu dosya, projenizin amacını, kurulum talimatlarını, kullanım kılavuzunu ve geliştirme detaylarını İngilizce olarak içeriyor. Markdown formatında yazılmıştır ve GitHub gibi platformlarda şık bir şekilde görüntülenebilir.
-
----
-
 **Image Table Extractor** is a Chrome extension designed to extract tabular data from images on web pages and convert it into CSV format. Using Tesseract.js for Optical Character Recognition (OCR), this tool simplifies the process of retrieving structured data from images, whether accessed via right-click context menu or manual upload.
 
 ---
@@ -49,16 +45,6 @@ Aşağıda, Chrome uzantınız için profesyonel, açık ve düzenli bir `README
 2. Click **Choose File** and select an image from your device.
 3. Click **Process Image** to extract the table.
 4. The result will be downloaded as a CSV file.
-
----
-
-## Screenshots
-
-| Context Menu | Popup Interface | Loading State |
-|--------------|-----------------|---------------|
-| ![Context Menu](screenshots/context-menu.png) | ![Popup](screenshots/popup.png) | ![Loading](screenshots/loading.png) |
-
-*(Screenshots to be added after capturing them from the extension.)*
 
 ---
 
